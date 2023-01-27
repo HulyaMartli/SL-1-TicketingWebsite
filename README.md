@@ -1,6 +1,6 @@
 # Ticketing Website
 
-This page was created using HTML5, CSS3 and JavaScript in the scope of [sololearn](https://www.sololearn.com/) Web Development Fundamentals.
+This page was created using HTML5, CSS3 and JavaScript in the scope of [sololearn](https://www.sololearn.com/) Web Development Fundamentals course.
 
 ## Preview
 
