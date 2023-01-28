@@ -1,10 +1,14 @@
 # Ticketing Website
 
-This page was created using HTML5, CSS3 and JavaScript in the scope of [sololearn](https://www.sololearn.com/) Web Development Fundamentals course.
+This repo was created to practice the fundamentals of HTML5, CSS3 and JavaScript through [sololearn](https://www.sololearn.com/) Web Development Fundamentals course.
+
+To print Ticket numbers to the console, a "for loop"; 
+To calculate and show the total price of the tickets "onclick", in an "alert message"; functions are created. 
+Frequently used functions and events in JavaScript, such as the "alert" function, "window.onload", "onclick" events are practiced.
 
 ## Preview
 
-![Ticketing Website Preeview](https://lh3.googleusercontent.com/pw/AMWts8CN02GSBPC5eJG-3vr7ga0REDZHUOdhCj9Sf6aJKpzFgLqdF4kSy30Q5Dgf4XiWR7WH-vz3QxFxFN5b-5j3RopB81N9Swez5754yicS6LHJxV5RF9rgwq9HNPiqQbA-6M1QbDvZF4FzFQ_wIlbSvbonKQ=w1243-h716-no?authuser=0)
+![Ticketing Website Preview](https://lh3.googleusercontent.com/pw/AMWts8CN02GSBPC5eJG-3vr7ga0REDZHUOdhCj9Sf6aJKpzFgLqdF4kSy30Q5Dgf4XiWR7WH-vz3QxFxFN5b-5j3RopB81N9Swez5754yicS6LHJxV5RF9rgwq9HNPiqQbA-6M1QbDvZF4FzFQ_wIlbSvbonKQ=w1243-h716-no?authuser=0)
 
 ## [sololearn - Web Development Fundamentals Course](https://www.sololearn.com/learning/1141)
 
