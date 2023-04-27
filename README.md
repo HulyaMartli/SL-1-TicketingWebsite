@@ -33,4 +33,4 @@ Frequently used functions and events in JavaScript, such as the "alert" function
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://choosealicense.com/licenses/mit/)  
